@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Travels-Bold';
+  src: url('./assets/Fonts/TTTravels-Bold.ttf');
+}
+@font-face {
+  font-family: 'Travels-DemiBold';
+  src: url('./assets/Fonts/TTTravels-DemiBold.ttf');
+}
+@font-face {
+  font-family: 'Travels-Light';
+  src: url('./assets/Fonts/TTTravels-Light.ttf');
+}
+@font-face {
+  font-family: 'Travels-Medium';
+  src: url('./assets/Fonts/TTTravels-Medium.ttf');
+}
+@font-face {
+  font-family: 'Travels-Regular';
+  src: url('./assets/Fonts/TTTravels-Regular.ttf');
+}
+html {
+  scroll-behavior: smooth;
+  }
+  
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Travels-Medium';
+  color: #404040;
+}
